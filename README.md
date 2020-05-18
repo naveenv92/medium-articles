@@ -26,7 +26,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 ### <b>Scraping NFL Stats to Compare Quarterback Efficiencies</b>  
 
 <p align='center'>
-<img src='https://miro.medium.com/max/1322/1*YqMufWwCz3Ir85dEWN2uKg.png'>
+<img src='https://miro.medium.com/max/1322/1*YqMufWwCz3Ir85dEWN2uKg.png' height=600px>
 </p>  
 
 <b>Link to Article: </b>[https://towardsdatascience.com/scraping-nfl-stats-to-compare-quarterback-efficiencies-4989642e02fe](https://towardsdatascience.com/scraping-nfl-stats-to-compare-quarterback-efficiencies-4989642e02fe)
