@@ -48,3 +48,15 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 <b>Notebook: </b>[epl-2019-2020.ipynb](./epl-stats/epl-2019-2020.ipynb)
 
 ---
+
+### <b>Generating Candlestick Charts From Scratch</b>  
+
+<p align='center'>
+<img src='https://miro.medium.com/max/1400/1*P1MMt7TOQn9mdbdJW0gmlw.png' height=600px>
+</p>
+
+<b>Link to Article: </b>[https://medium.com/swlh/generating-candlestick-charts-from-scratch-ef6e1d3cf0e9](https://medium.com/swlh/generating-candlestick-charts-from-scratch-ef6e1d3cf0e9)  
+
+<b>Notebook: </b>[stocks.ipynb](./stocks.ipynb)
+
+---
