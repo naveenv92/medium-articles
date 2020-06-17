@@ -11,6 +11,8 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 3. [Visualizing the 2019–20 English Premier League Season with Matplotlib and Pandas](#visualizing-the-2019-20-english-premier-league-season-with-matplotlib-and-pandas)
 
+4. [Generating Candlestick Charts From Scratch](#generating-candlestick-charts-from-scratch)
+
 ---  
 
 ### <b>Visualizing Musical Intervals with Lissajous Curves</b>  
