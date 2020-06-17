@@ -13,6 +13,8 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 4. [Generating Candlestick Charts From Scratch](#generating-candlestick-charts-from-scratch)
 
+5. [Make a Simple NBA Shot Chart with Python](#make-a-simple-nba-shot-chart-with-python)
+
 ---  
 
 ### <b>Visualizing Musical Intervals with Lissajous Curves</b>  
@@ -42,7 +44,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 ### <b>Visualizing the 2019–20 English Premier League Season with Matplotlib and Pandas</b>  
 
 <p align='center'>
-<img src='https://miro.medium.com/max/1400/1*RA3AzLTdgs1-KZz2klCf1A.png' height=600px>
+<img src='https://miro.medium.com/max/1400/1*RA3AzLTdgs1-KZz2klCf1A.png' width=400px>
 </p>
 
 <b>Link to Article: </b>[https://towardsdatascience.com/visualizing-the-2019-20-english-premier-league-season-with-matplotlib-and-pandas-fd491a07cfda](https://towardsdatascience.com/visualizing-the-2019-20-english-premier-league-season-with-matplotlib-and-pandas-fd491a07cfda)  
@@ -54,11 +56,23 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 ### <b>Generating Candlestick Charts From Scratch</b>  
 
 <p align='center'>
-<img src='https://miro.medium.com/max/1400/1*P1MMt7TOQn9mdbdJW0gmlw.png' height=600px>
+<img src='https://miro.medium.com/max/1400/1*P1MMt7TOQn9mdbdJW0gmlw.png' width=400px>
 </p>
 
 <b>Link to Article: </b>[https://medium.com/swlh/generating-candlestick-charts-from-scratch-ef6e1d3cf0e9](https://medium.com/swlh/generating-candlestick-charts-from-scratch-ef6e1d3cf0e9)  
 
 <b>Notebook: </b>[stocks.ipynb](./stocks.ipynb)
+
+---
+
+### <b>Make a Simple NBA Shot Chart with Python</b>  
+
+<p align='center'>
+<img src='https://miro.medium.com/max/1400/1*TTqlI9xcHGcNUygDVVQT1g.png' width=400px>
+</p>
+
+<b>Link to Article: </b>[https://towardsdatascience.com/make-a-simple-nba-shot-chart-with-python-e5d70db45d0d](https://towardsdatascience.com/make-a-simple-nba-shot-chart-with-python-e5d70db45d0d)  
+
+<b>Notebook: </b>[nba_shotchart.ipynb](./nba_shotchart.ipynb)
 
 ---
