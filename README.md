@@ -13,7 +13,9 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 4. [Generating Candlestick Charts From Scratch](#generating-candlestick-charts-from-scratch)
 
-5. [Make a Simple NBA Shot Chart with Python](#make-a-simple-nba-shot-chart-with-python)
+5. [Make a Simple NBA Shot Chart with Python](#make-a-simple-nba-shot-chart-with-python)  
+
+6. [An Introduction to Making Dynamic and Interactive Plots with D3](#an-introduction-to-making-dynamic-and-interactive-plots-with-d3)
 
 ---  
 
