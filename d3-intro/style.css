@@ -1,0 +1,11 @@
+#plot_area {
+    margin-left: 50px;
+}
+
+.points {
+    visibility: hidden;
+}
+
+.points:hover {
+    visibility: visible;
+}
