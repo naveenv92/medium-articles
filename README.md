@@ -76,3 +76,15 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 <b>Notebook: </b>[nba_shotchart.ipynb](./nba_shotchart.ipynb)
 
 ---
+
+### <b>An Introduction to Making Dynamic and Interactive Plots with D3</b>  
+
+<p align='center'>
+<img src='https://miro.medium.com/max/1182/1*I6JET3FAdkEgRPDkWkAj_Q.gif' width=400px>
+</p>
+
+<b>Link to Article: </b>[https://medium.com/@naveen.venkatesan/an-introduction-to-making-dynamic-and-interactive-plots-with-d3-a9e859413c5a](https://medium.com/@naveen.venkatesan/an-introduction-to-making-dynamic-and-interactive-plots-with-d3-a9e859413c5a)  
+
+<b>JavaScript: </b>[plot.js](./d3-intro/plot.js)
+
+---
