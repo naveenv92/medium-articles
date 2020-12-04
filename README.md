@@ -15,7 +15,9 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 5. [Make a Simple NBA Shot Chart with Python](#make-a-simple-nba-shot-chart-with-python)  
 
-6. [An Introduction to Making Dynamic and Interactive Plots with D3](#an-introduction-to-making-dynamic-and-interactive-plots-with-d3)
+6. [An Introduction to Making Dynamic and Interactive Plots with D3](#an-introduction-to-making-dynamic-and-interactive-plots-with-d3)  
+
+7. [Pizza? Or Pasta? Create an Image classifier with Keras in 30 Minutes](#pizza-or-pasta-create-an-image-classifier-with-keras-in-30-minutes)
 
 ---  
 
@@ -89,4 +91,17 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 <b>JavaScript: </b>[plot.js](./d3-intro/plot.js)
 
+---  
+
+### <b>Pizza? Or Pasta? Create an Image classifier with Keras in 30 Minutes</b>  
+
+<p align='center'>
+<img src='https://miro.medium.com/max/804/1*ccSsQlnDqGx7QcP7A1J2Uw.png' width=400px>
+</p>
+
+<b>Link to Article: </b>[https://towardsdatascience.com/pizza-or-pasta-create-an-image-classifier-with-keras-in-30-minutes-e8ef5c8e2a31](https://towardsdatascience.com/pizza-or-pasta-create-an-image-classifier-with-keras-in-30-minutes-e8ef5c8e2a31)  
+
+<b>Notebook: </b>[keras-classifier.ipynb](./keras-classifier/keras-classifier.ipynb)  
+
 ---
+
